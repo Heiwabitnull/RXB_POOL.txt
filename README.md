@@ -1,3 +1,3 @@
 # RXB_POOL.txt
 POOL.txt
-Ggo to POOL_INFO.txt 
+Ggo to POOL_INFO.md 
